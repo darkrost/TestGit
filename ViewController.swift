@@ -22,6 +22,8 @@ class ViewController: UIViewController {
         NSLog("우하하하하하")
         
         NSLog("메롱")
+        
+        NSLog("테스트")
     }
 
 
